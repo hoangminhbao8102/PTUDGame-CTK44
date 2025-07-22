@@ -18,5 +18,5 @@ Hoc kì II - Năm 3 (2022 - 2023)<br>
 <strong>Giáo viên hướng dẫn thực hành:</strong> Thầy ThS. Đoàn Minh Khuê<br>
 <br>
 Link Github: <a href="https://github.com/hoangminhbao8102/PTUDGame-CTK44">hoangminhbao8102/PTUDGame-CTK44</a><br>
-Nguồn link hướng dẫn tạo Game: <a href="[https://www.youtube.com/playlist?list=PLuq_iMEtykn8XiZb6453f61U7HC7u8KiC](https://www.youtube.com/playlist?list=PLuq_iMEtykn8XiZb6453f61U7HC7u8KiC)">Let's Make Solitaire</a><br>
+Nguồn link hướng dẫn tạo Game: <a href="https://www.youtube.com/playlist?list=PLuq_iMEtykn8XiZb6453f61U7HC7u8KiC">Let's Make Solitaire</a><br>
 <h1 style="color:red;">ĐÃ HOÀN THÀNH</h1>
