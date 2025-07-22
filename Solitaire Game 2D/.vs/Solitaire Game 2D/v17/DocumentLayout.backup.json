@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|e:\\ptudgame-ctk44\\solitaire game 2d\\assets\\scripts\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|E:\\PTUDGame-CTK44\\Solitaire Game 2D\\assets\\scripts\\scorekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|E:\\PTUDGame-CTK44\\Solitaire Game 2D\\assets\\scripts\\uibuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|E:\\PTUDGame-CTK44\\Solitaire Game 2D\\assets\\scripts\\selectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|E:\\PTUDGame-CTK44\\Solitaire Game 2D\\assets\\scripts\\updatesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\updatesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|E:\\PTUDGame-CTK44\\Solitaire Game 2D\\assets\\scripts\\solitaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A856E0-5428-8CF8-90AA-2BFCBCF747B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\solitaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreKeeper.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\ScoreKeeper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreKeeper.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\ScoreKeeper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreKeeper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:27:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIButtons.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UIButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtons.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UIButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:05:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UserInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UserInput.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UserInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UserInput.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:26:53.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selectable.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\Selectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Selectable.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\Selectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Selectable.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:33:37.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateSprite.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UpdateSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpdateSprite.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\UpdateSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpdateSprite.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:29:05.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Solitaire.cs",
+              "DocumentMoniker": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\Solitaire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Solitaire.cs",
+              "ToolTip": "E:\\PTUDGame-CTK44\\Solitaire Game 2D\\Assets\\Scripts\\Solitaire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Solitaire.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:08:47.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
